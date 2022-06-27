@@ -7,4 +7,4 @@ Usage:
 
 sh find_unused_ebs_volumes.sh region_name
 
-ex. find_unused_ebs_volumes.sh us-east-1
+**ex.:**   sh find_unused_ebs_volumes.sh us-east-1
